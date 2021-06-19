@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "refinedforage:slate"
+        },
+        {
+            "item": "refinedforage:slate"
+        },
+        {
+            "item": "refinedforage:slate"
+        },
+        {
+            "item": "refinedforage:slate"
+        }
+    ],
+    "result": {
+        "item": "refinedforage:slate_brick",
+        "count": 4
+    }
+}

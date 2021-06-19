@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "refinedforage:slate_silver"
+  },
+  "result": "refinedforage:silver_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}
