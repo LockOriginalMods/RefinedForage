@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "refinedforage:cobbled_slate"
-    },
-    "result": "refinedforage:slate",
-    "experience": 0.5,
-    "cookingtime": 200
-}
