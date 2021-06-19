@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "RER",
+    "ibi"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:solarspectral_cell"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "E": {
+      "item": "refinedforage:solarquantum"
+    },
+    "i": {
+      "item": "refinedforage:iron_plate"
+    },
+    "b": {
+      "item": "refinedforage:advanced_electricalcircuit"
+    }
+  },
+  "result": {
+    "item": "refinedforage:solarspectral",
+    "count": 1
+  }
+}

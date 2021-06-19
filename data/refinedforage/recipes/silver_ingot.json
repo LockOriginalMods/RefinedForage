@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": [
+        {
+            "item": "refinedforage:slate_silver"
+        }
+    ],
+    "result": "refinedforage:silver_ingot",
+    "experience": 0.5,
+    "cookingtime": 200
+}
