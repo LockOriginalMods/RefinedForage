@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "CLC",
+    "DQD"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:solarultimate_cell"
+    },
+    "C": {
+      "item": "minecraft:cyan_dye"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "refinedforage:solarquantum_cell",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "refinedforage:slate_tin"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:tin_grit",
+    "count": 2
+  }
+}

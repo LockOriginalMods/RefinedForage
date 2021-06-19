@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "refinedforage:coal_grit"
+    },
+    {
+      "item": "refinedforage:iron_grit"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:steel_grit",
+    "count": 2
+  }
+}

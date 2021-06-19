@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "refinedforage:copper_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "refinedforage:copper_plate"
+    }
+  ]
+}
