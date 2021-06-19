@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "refinedforage:blocks/peltier_generator/top",
+    "down": "refinedforage:blocks/peltier_generator/bottom",
+    "north": "refinedforage:blocks/peltier_generator/side",
+    "east": "refinedforage:blocks/peltier_generator/side",
+    "south": "refinedforage:blocks/peltier_generator/side",
+    "west": "refinedforage:blocks/peltier_generator/side",
+    "particle": "refinedforage:blocks/peltier_generator/side"
+  }
+}

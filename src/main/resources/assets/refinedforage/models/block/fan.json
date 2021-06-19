@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "refinedforage:blocks/machinebase",
+    "up": "refinedforage:blocks/machinebase",
+    "north": "refinedforage:blocks/fanfront",
+    "east": "refinedforage:blocks/machinebase",
+    "south": "refinedforage:blocks/machinebase",
+    "west": "refinedforage:blocks/machinebase",
+    "particle": "refinedforage:blocks/machinebase"
+  }
+}

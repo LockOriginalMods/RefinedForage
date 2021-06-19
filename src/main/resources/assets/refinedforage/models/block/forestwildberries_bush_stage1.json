@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "refinedforage:blocks/forestwildberries_bush_stage1"
+  }
+}
