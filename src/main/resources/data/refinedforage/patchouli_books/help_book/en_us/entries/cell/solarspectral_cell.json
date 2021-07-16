@@ -1,0 +1,17 @@
+{
+  "name": "Solar spectral cell",
+  "icon": "refinedforage:solarspectral_cell",
+  "category": "refinedforage:solar_cell",
+  "pages": [
+    {
+      "type": "text",
+      "text": "spectral solar cell for spectral solar panel",
+      "type": "spotlight",
+      "item": "refinedforage:solarspectral_cell"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solarspectral_cell"
+    }
+  ]
+}

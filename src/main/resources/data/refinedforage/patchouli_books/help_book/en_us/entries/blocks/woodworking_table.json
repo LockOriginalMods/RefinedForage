@@ -1,0 +1,16 @@
+
+{
+  "name": "Wood working table",
+  "icon": "refinedforage:woodworking_table",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Lead ingot",
+      "type": "spotlight",
+      "item": "refinedforage:woodworking_table"
+    }
+
+  ]
+}

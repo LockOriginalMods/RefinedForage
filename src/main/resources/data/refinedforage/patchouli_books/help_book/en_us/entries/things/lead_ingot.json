@@ -1,0 +1,23 @@
+{
+  "name": "Lead ingot",
+  "icon": "refinedforage:lead_ingot",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Lead ingot",
+      "type": "spotlight",
+      "item": "refinedforage:lead_ingot"
+    },
+    {
+      "type": "smelting",
+      "recipe": "refinedforage:lead_ingot"
+    },
+    {
+      "type": "blasting",
+      "recipe": "refinedforage:lead_ingot"
+    }
+
+  ]
+}

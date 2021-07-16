@@ -1,0 +1,17 @@
+{
+  "name": "Solar industrial panel",
+  "icon": "refinedforage:solarindustrial",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "the solar panel only works during the day, generates 10 FE per tick",
+      "type": "spotlight",
+      "item": "refinedforage:solarindustrial"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solarindustrial"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Trident stick",
+  "icon": "refinedforage:trident_stick",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "trident stick",
+      "type": "spotlight",
+      "item": "refinedforage:trident_stick"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:trident_stick"
+    }
+
+  ]
+}

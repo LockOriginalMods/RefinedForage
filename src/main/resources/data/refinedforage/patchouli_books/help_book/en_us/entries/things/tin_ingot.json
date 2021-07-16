@@ -1,0 +1,27 @@
+{
+  "name": "Tin ingot",
+  "icon": "refinedforage:tin_ingot",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tin ingot",
+      "type": "spotlight",
+      "item": "refinedforage:tin_ingot"
+    },
+    {
+      "type": "smelting",
+      "recipe": "refinedforage:tin_ingot"
+    },
+    {
+      "type": "blasting",
+      "recipe": "refinedforage:tin_ingot"
+    },
+    {
+      "type": "blasting",
+      "recipe": "refinedforage:tin_ingot_one"
+    }
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Solar spectral panel",
+  "icon": "refinedforage:solarspectral",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "the solar panel only works during the day, generates 7680 FE per tick",
+      "type": "spotlight",
+      "item": "refinedforage:solarspectral"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solarspectral"
+    }
+  ]
+}

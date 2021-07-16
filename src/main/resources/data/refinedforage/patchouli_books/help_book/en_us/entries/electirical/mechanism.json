@@ -1,0 +1,19 @@
+{
+  "name": "Energy meter",
+  "icon": "refinedforage:energy_meter",
+  "category": "refinedforage:mechanism_category",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "this item shows how much energy has accumulated in a battery",
+      "type": "spotlight",
+      "item": "refinedforage:energy_meter"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:energy_meter"
+    }
+
+  ]
+}

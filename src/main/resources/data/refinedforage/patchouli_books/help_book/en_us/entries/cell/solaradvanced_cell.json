@@ -1,0 +1,17 @@
+{
+  "name": "Solar advanced cell",
+  "icon": "refinedforage:solaradvanced_cell",
+  "category": "refinedforage:solar_cell",
+  "pages": [
+    {
+      "type": "text",
+      "text": "advanced solar cell for advanced solar panel",
+      "type": "spotlight",
+      "item": "refinedforage:solaradvanced_cell"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solaradvanced_cell"
+    }
+  ]
+}

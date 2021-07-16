@@ -1,0 +1,13 @@
+{
+  "name": "Fan block",
+  "icon": "refinedforage:fan",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "this block was created for fun",
+      "type": "spotlight",
+      "item": "refinedforage:fan"
+    }
+  ]
+}

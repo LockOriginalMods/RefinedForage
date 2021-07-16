@@ -1,0 +1,17 @@
+{
+  "name": "Solar basic cell",
+  "icon": "refinedforage:solar_cell",
+  "category": "refinedforage:solar_cell",
+  "pages": [
+    {
+      "type": "text",
+      "text": "basic solar cell for basic solar panel",
+      "type": "spotlight",
+      "item": "refinedforage:solar_cell"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solar_cell"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tin grit",
+  "icon": "refinedforage:tin_grit",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tin grit",
+      "type": "spotlight",
+      "item": "refinedforage:tin_grit"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:tin_dust"
+    }
+
+  ]
+}

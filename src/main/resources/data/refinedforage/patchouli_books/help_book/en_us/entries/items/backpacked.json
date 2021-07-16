@@ -1,0 +1,19 @@
+{
+  "name": "Backpacked",
+  "icon": "refinedforage:backpacked",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "a backpack with 9 slots for storing items",
+      "type": "spotlight",
+      "item": "refinedforage:backpacked"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:backpacked"
+    }
+
+  ]
+}

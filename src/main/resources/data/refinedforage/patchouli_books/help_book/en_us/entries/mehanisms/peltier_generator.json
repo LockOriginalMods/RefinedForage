@@ -1,0 +1,18 @@
+{
+  "name": "Thermoelectric Generator",
+  "icon": "refinedforage:peltier_generator",
+  "category": "refinedforage:mechanism_category",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "a peltier generator generates 400 FE per tick",
+      "type": "spotlight",
+      "item": "refinedforage:peltier_generator"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:peltier_generator"
+    }
+  ]
+}

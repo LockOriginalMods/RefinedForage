@@ -1,0 +1,23 @@
+{
+  "name": "Steel ingot",
+  "icon": "refinedforage:steel_ingot",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Steel ingot",
+      "type": "spotlight",
+      "item": "refinedforage:steel_ingot"
+    },
+    {
+      "type": "smelting",
+      "recipe": "refinedforage:steel_furnace"
+    },
+    {
+      "type": "blasting",
+      "recipe": "refinedforage:steel_ingot"
+    }
+
+  ]
+}

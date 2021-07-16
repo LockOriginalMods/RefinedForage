@@ -1,0 +1,17 @@
+{
+  "name": "Solar quantum panel",
+  "icon": "refinedforage:solarquantum",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "the solar panel only works during the day, generates 960 FE per tick",
+      "type": "spotlight",
+      "item": "refinedforage:solarquantum"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solarquantum"
+    }
+  ]
+}

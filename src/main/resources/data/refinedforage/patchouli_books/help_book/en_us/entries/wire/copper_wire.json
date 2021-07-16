@@ -1,0 +1,19 @@
+{
+  "name": "Copper wire",
+  "icon": "refinedforage:copper_wire",
+  "category": "refinedforage:mechanism_category",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Copper Wire",
+      "type": "spotlight",
+      "item": "refinedforage:copper_wire"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:copper_wire"
+    }
+
+  ]
+}

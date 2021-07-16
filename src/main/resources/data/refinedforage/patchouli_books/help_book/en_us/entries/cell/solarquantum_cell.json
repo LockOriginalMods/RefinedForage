@@ -1,0 +1,17 @@
+{
+  "name": "Solar quantum cell",
+  "icon": "refinedforage:solarquantum_cell",
+  "category": "refinedforage:solar_cell",
+  "pages": [
+    {
+      "type": "text",
+      "text": "quantum solar cell for quantum solar panel",
+      "type": "spotlight",
+      "item": "refinedforage:solarquantum_cell"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solarquantum_cell"
+    }
+  ]
+}

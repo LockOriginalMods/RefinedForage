@@ -1,0 +1,17 @@
+{
+  "name": "Solar ultimate cell",
+  "icon": "refinedforage:solarultimate_cell",
+  "category": "refinedforage:solar_cell",
+  "pages": [
+    {
+      "type": "text",
+      "text": "ultimate solar cell for ultimate solar panel",
+      "type": "spotlight",
+      "item": "refinedforage:solarultimate_cell"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solarultimate_cell"
+    }
+  ]
+}

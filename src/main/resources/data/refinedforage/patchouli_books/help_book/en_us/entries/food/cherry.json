@@ -1,0 +1,19 @@
+{
+  "name": "Cherry",
+  "icon": "refinedforage:cherry",
+  "category": "refinedforage:test_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "you can buy it from Botanist",
+      "type": "spotlight",
+      "item": "refinedforage:cherry"
+    },
+    {
+      "type": "image",
+      "images": [
+        "refinedforage:textures/gui/entries/botanist.png"
+      ]
+    }
+  ]
+}

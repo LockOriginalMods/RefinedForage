@@ -1,0 +1,17 @@
+{
+  "name": "Solar ultimate panel",
+  "icon": "refinedforage:solarultimate",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "the solar panel only works during the day, generates 120 FE per tick",
+      "type": "spotlight",
+      "item": "refinedforage:solarultimate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solarultimate"
+    }
+  ]
+}

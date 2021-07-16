@@ -1,0 +1,23 @@
+{
+  "name": "Steel grit",
+  "icon": "refinedforage:steel_grit",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Steel grit",
+      "type": "spotlight",
+      "item": "refinedforage:steel_grit"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:recipes/ingots/steel_grit"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:recipes/ingots/steel"
+    }
+
+  ]
+}

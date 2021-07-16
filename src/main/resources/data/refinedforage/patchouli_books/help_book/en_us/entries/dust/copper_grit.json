@@ -1,0 +1,19 @@
+{
+  "name": "Copper grit",
+  "icon": "refinedforage:copper_grit",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Copper grit",
+      "type": "spotlight",
+      "item": "refinedforage:copper_grit"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:copper_dust"
+    }
+
+  ]
+}

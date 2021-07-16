@@ -1,0 +1,19 @@
+{
+  "name": "Silver ingot",
+  "icon": "refinedforage:silver_ingot",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Silver ingot",
+      "type": "spotlight",
+      "item": "refinedforage:silver_ingot"
+    },
+    {
+      "type": "smelting",
+      "recipe": "refinedforage:silver_ingot"
+    }
+
+  ]
+}

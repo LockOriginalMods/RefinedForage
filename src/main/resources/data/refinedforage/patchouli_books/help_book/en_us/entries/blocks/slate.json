@@ -1,0 +1,19 @@
+{
+  "name": "Slate",
+  "icon": "refinedforage:slate",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Slate",
+      "type": "spotlight",
+      "item": "refinedforage:slate"
+    },
+    {
+      "type": "smelting",
+      "recipe": "refinedforage:slate"
+    }
+
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Coal grit",
+  "icon": "refinedforage:coal_grit",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Coal grit",
+      "type": "spotlight",
+      "item": "refinedforage:coal_grit"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:coal_dust"
+    }
+
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bronze ingot",
+  "icon": "refinedforage:bronze_ingot",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bronze ingot",
+      "type": "spotlight",
+      "item": "refinedforage:bronze_ingot"
+    },
+    {
+      "type": "smelting",
+      "recipe": "refinedforage:bronze_cock"
+    },
+    {
+      "type": "blasting",
+      "recipe": "refinedforage:bronze_ingot"
+    }
+
+  ]
+}

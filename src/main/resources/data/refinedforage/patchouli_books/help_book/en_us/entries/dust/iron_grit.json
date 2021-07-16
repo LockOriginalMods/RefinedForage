@@ -1,0 +1,19 @@
+{
+  "name": "Iron grit",
+  "icon": "refinedforage:iron_grit",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Iron grit",
+      "type": "spotlight",
+      "item": "refinedforage:iron_grit"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:iron_grit"
+    }
+
+  ]
+}

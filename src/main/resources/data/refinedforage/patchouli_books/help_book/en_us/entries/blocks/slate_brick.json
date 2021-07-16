@@ -1,0 +1,19 @@
+{
+  "name": "Slate brick",
+  "icon": "refinedforage:slate_brick",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Slate brick",
+      "type": "spotlight",
+      "item": "refinedforage:slate_brick"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:slate_block"
+    }
+
+  ]
+}

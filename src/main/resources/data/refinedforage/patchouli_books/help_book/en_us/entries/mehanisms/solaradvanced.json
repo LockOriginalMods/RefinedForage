@@ -1,0 +1,17 @@
+{
+  "name": "Solar advanced panel",
+  "icon": "refinedforage:solaradvanced",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "the solar panel only works during the day, generates 15 FE per tick",
+      "type": "spotlight",
+      "item": "refinedforage:solaradvanced"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solaradvanced"
+    }
+  ]
+}

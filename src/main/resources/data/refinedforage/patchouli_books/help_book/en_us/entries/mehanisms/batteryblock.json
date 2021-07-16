@@ -1,0 +1,24 @@
+{
+  "name": "Battery",
+  "icon": "refinedforage:batteryblock",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "battery (can store energy in itself) it receives energy at the top and gives it away at the bottom",
+      "type": "spotlight",
+      "item": "refinedforage:batteryblock"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:batteryblock"
+    },
+    {
+      "type": "image",
+      "images": [
+        "refinedforage:textures/gui/entries/battery.png"
+      ]
+    }
+
+  ]
+}

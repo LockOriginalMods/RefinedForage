@@ -1,0 +1,19 @@
+{
+  "name": "Bronze grit",
+  "icon": "refinedforage:bronze_grit",
+  "category": "refinedforage:other",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bronze grit",
+      "type": "spotlight",
+      "item": "refinedforage:bronze_grit"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:bronze_dust"
+    }
+
+  ]
+}

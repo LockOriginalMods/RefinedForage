@@ -1,0 +1,17 @@
+{
+  "name": "Solar basic panel",
+  "icon": "refinedforage:solar_basic",
+  "category": "refinedforage:mechanism_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "the solar panel only works during the day, generates 1 FE per tick",
+      "type": "spotlight",
+      "item": "refinedforage:solar_basic"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:solar_basic"
+    }
+  ]
+}

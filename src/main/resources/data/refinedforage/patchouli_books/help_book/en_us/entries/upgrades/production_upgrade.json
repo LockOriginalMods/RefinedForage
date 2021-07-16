@@ -1,0 +1,19 @@
+{
+  "name": "Production upgrade",
+  "icon": "refinedforage:production_upgrade",
+  "category": "refinedforage:mechanism_category",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Production upgrade, upgrades machine energy production by 2x\"",
+      "type": "spotlight",
+      "item": "refinedforage:production_upgrade"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedforage:production_upgrade"
+    }
+
+  ]
+}
