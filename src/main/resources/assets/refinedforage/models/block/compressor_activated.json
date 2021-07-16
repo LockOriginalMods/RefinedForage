@@ -1,0 +1,13 @@
+
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "refinedforage:blocks/compressor_bottom",
+    "up": "refinedforage:blocks/compressor_top",
+    "north": "refinedforage:blocks/compressor_front_on",
+    "east": "refinedforage:blocks/compressor_side_on",
+    "south": "refinedforage:blocks/compressor_side_on",
+    "west": "refinedforage:blocks/compressor_side_on",
+    "particle": "refinedforage:blocks/compressor_bottom"
+  }
+}

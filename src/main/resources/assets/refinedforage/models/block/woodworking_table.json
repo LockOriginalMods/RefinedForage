@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "refinedforage:items/woodworking_table_side",
+    "north": "refinedforage:items/woodworking_table_front",
+    "south": "refinedforage:items/woodworking_table_back",
+    "east": "refinedforage:items/woodworking_table_side",
+    "west": "refinedforage:items/woodworking_table_side2",
+    "up": "refinedforage:items/woodworking_table_top",
+    "down": "minecraft:block/beehive_end"
+  }
+}

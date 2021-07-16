@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "refinedforage:block/firstblock",
+    "up": "refinedforage:block/firstblock",
+    "north": "refinedforage:block/firstblock_front",
+    "south": "refinedforage:block/firstblock",
+    "east": "refinedforage:block/firstblock",
+    "west": "refinedforage:block/firstblock",
+    "particle": "refinedforage:block/firstblock"
+  }
+}

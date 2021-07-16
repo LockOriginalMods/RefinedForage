@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "refinedforage:blocks/blueprint_table_front",
+    "north": "refinedforage:blocks/blueprint_table_front",
+    "south": "refinedforage:blocks/blueprint_table_side",
+    "east": "refinedforage:blocks/blueprint_table_side",
+    "west": "refinedforage:blocks/blueprint_table_front",
+    "up": "refinedforage:blocks/blueprint_table_top",
+    "down": "refinedforage:blocks/blueprint_table_bottom"
+  }
+}

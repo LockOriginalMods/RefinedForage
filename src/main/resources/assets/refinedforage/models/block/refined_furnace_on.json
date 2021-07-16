@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "refinedforage:block/fusion_furnace_top",
+    "front": "finedforage:block/fusion_furnace_front_lit",
+    "side": "finedforage:block/fusion_furnace_side"
+  }
+}
