@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "refinedforage:copper_grit"
+  },
+  "result": "refinedforage:copper_ingot",
+  "experience": 0.1,
+  "cookingtime": 80
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrr",
+    "r r",
+    "r r"
+  ],
+  "key": {
+    "r": {
+      "item": "refinedforage:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "refinedforage:copper_leggings",
+    "count": 1
+  }
+}
