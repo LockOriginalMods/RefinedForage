@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "refinedforage:items/copper_hoe"
+  }
+}

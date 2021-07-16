@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "refinedforage:items/battery_gauge_3"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "techreborn:empty": 1
+      },
+      "model": "refinedforage:items/battery"
+    }
+  ]
+}
