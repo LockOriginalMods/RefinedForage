@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,compressing=false": {
+      "model": "refinedforage:block/compressor"
+    },
+    "facing=north,compressing=true": {
+      "model": "refinedforage:block/compressor_activated"
+    },
+    "facing=east,compressing=false": {
+      "model": "refinedforage:block/compressor",
+      "y": 90
+    },
+    "facing=east,compressing=true": {
+      "model": "refinedforage:block/compressor_activated",
+      "y": 90
+    },
+    "facing=south,compressing=false": {
+      "model": "refinedforage:block/compressor",
+      "y": 180
+    },
+    "facing=south,compressing=true": {
+      "model": "refinedforage:block/compressor_activated",
+      "y": 180
+    },
+    "facing=west,compressing=false": {
+      "model": "refinedforage:block/compressor",
+      "y": 270
+    },
+    "facing=west,compressing=true": {
+      "model": "refinedforage:block/compressor_activated",
+      "y": 270
+    }
+  }
+}
