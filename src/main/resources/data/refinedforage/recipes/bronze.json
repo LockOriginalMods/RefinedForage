@@ -1,0 +1,13 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+
+    {
+      "item": "refinedforage:bronze_ingot"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:bronze_grit",
+    "count": 1
+  }
+}

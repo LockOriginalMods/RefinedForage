@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "# #",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:bronze_nugget"
+    }
+  },
+  "result": {
+    "item": "refinedforage:bronze_gear",
+    "count": 1
+  }
+}

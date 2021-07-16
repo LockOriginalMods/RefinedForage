@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+
+    {
+      "item": "refinedforage:coal_grit"
+    },
+    {
+      "item": "refinedforage:iron_grit"
+    },
+    {
+      "item": "refinedforage:iron_grit"
+    },
+    {
+      "item": "refinedforage:iron_grit"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:steel_grit",
+    "count": 2
+  }
+}

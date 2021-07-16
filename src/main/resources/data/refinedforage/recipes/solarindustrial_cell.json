@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "CLC",
+    "ibi"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:solar_cell"
+    },
+    "C": {
+      "item": "minecraft:cyan_dye"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "refinedforage:solarindustrial_cell",
+    "count": 2
+  }
+}

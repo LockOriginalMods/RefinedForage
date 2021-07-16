@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedforage:hammer"
+    },
+    {
+      "item": "refinedforage:slate_tin"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:tin_grit",
+    "count": 2
+  }
+}

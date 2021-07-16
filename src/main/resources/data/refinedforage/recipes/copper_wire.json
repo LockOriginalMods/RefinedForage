@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:cutters"
+    },
+    "R": {
+      "item": "refinedforage:copper_plate"
+    }
+  },
+  "result": {
+    "item": "refinedforage:copper_wire",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "RSR",
+    "#R#"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:copperwire_coil"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "refinedforage:copper_plate"
+    }
+  },
+  "result": {
+    "item": "refinedforage:electrical_circuit",
+    "count": 1
+  }
+}

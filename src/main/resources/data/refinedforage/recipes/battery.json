@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "QUQ",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:iron_plate"
+    },
+    "R": {
+      "item": "refinedforage:iron_gear"
+    },
+    "Q": {
+      "item": "refinedforage:copperwire_coil"
+    },
+    "U": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "refinedforage:battery",
+    "count": 1
+  }
+}

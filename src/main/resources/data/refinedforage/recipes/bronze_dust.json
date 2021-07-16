@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedforage:copper_grit"
+    },
+    {
+      "item": "refinedforage:copper_grit"
+    },
+    {
+      "item": "refinedforage:copper_grit"
+    },
+    {
+      "item": "refinedforage:tin_grit"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:bronze_grit",
+    "count": 2
+  }
+}

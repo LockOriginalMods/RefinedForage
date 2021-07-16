@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#p#",
+    "iFi",
+    "iRi"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "i": {
+      "item": "refinedforage:iron_plate"
+    },
+    "p": {
+      "item": "refinedforage:iron_gear"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "R": {
+      "item": "refinedforage:battery"
+    }
+  },
+  "result": {
+    "item": "refinedforage:incinerator_generator",
+    "count": 1
+  }
+}

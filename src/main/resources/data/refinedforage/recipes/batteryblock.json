@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ipi",
+    "RZR",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "refinedforage:iron_plate"
+    },
+    "p": {
+      "item": "refinedforage:iron_gear"
+    },
+    "R": {
+      "item": "refinedforage:battery"
+    },
+    "Z": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "refinedforage:batteryblock",
+    "count": 1
+  }
+}

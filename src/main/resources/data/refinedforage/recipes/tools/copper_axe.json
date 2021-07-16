@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rr",
+    "r/",
+    " /"
+  ],
+  "key": {
+    "r": {
+      "item": "refinedforage:copper_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "refinedforage:copper_axe",
+    "count": 1
+  }
+}

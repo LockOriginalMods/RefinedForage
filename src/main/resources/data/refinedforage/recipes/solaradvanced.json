@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "RAR",
+    "ibi"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:solaradvanced_cell"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "A": {
+      "item": "refinedforage:solarindustrial"
+    },
+    "i": {
+      "item": "refinedforage:iron_plate"
+    },
+    "b": {
+      "item": "refinedforage:electrical_circuit"
+    }
+  },
+  "result": {
+    "item": "refinedforage:solaradvanced",
+    "count": 1
+  }
+}
+

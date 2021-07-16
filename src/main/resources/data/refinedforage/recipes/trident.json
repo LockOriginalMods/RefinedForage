@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #",
+    "R "
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:trident_top"
+    },
+    "R": {
+      "item": "refinedforage:trident_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  }
+}

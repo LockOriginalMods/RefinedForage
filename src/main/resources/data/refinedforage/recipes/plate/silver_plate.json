@@ -1,0 +1,16 @@
+{
+  "group": "refinedforage",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedforage:hammer"
+    },
+    {
+      "item": "refinedforage:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:silver_plate",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#p#",
+    "iRi",
+    "#b#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone"
+    },
+    "i": {
+      "item": "refinedforage:iron_plate"
+    },
+    "p": {
+      "item": "refinedforage:iron_gear"
+    },
+    "R": {
+      "item": "refinedforage:copperwire_coil"
+    },
+    "b": {
+      "item": "refinedforage:battery"
+    }
+  },
+  "result": {
+    "item": "refinedforage:peltier_generator",
+    "count": 1
+  }
+}

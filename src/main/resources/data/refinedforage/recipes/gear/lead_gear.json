@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "# #",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:lead_nugget"
+    }
+  },
+  "result": {
+    "item": "refinedforage:lead_gear",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "refinedforage:steel_nugget"
+    }
+  },
+  "result": {
+    "item": "refinedforage:steel_ingot",
+    "count": 1
+  }
+}

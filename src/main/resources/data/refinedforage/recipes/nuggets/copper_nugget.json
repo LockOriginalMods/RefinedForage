@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedforage:copper_ingot"
+    }
+  ],
+  "result": {
+    "item": "refinedforage:copper_nugget",
+    "count": 9
+  }
+}
