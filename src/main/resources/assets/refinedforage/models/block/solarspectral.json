@@ -1,8 +1,0 @@
-{
-  "parent": "refinedforage:custom/solarpanel",
-  "textures": {
-    "all": "refinedforage:blocks/solar_seven",
-    "particle": "refinedforage:blocks/solar_seven",
-    "0": "refinedforage:blocks/solar_seven"
-  }
-}
