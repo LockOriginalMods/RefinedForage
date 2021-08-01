@@ -1,0 +1,10 @@
+{
+  "type": "refinedforage:grinder",
+  "input": {
+    "item": "refinedforage:slate_silver"
+  },
+  "result": {
+    "item": "refinedforage:silver_grit",
+    "count": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "refinedforage:grinder",
+  "input": {
+    "item": "minecraft:gold_ore"
+  },
+  "result": {
+    "item": "refinedforage:gold_grit",
+    "count": 2
+  }
+}

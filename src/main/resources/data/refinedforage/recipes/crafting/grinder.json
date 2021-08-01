@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "#U#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bricks"
+    },
+    "R": {
+      "item": "refinedforage:iron_gear"
+    },
+    "U": {
+      "item": "refinedforage:mechanism_housing"
+    }
+  },
+  "result": {
+    "item": "refinedforage:grinder",
+    "count": 1
+  }
+}

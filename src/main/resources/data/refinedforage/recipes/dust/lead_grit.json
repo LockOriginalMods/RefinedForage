@@ -1,0 +1,10 @@
+{
+  "type": "refinedforage:grinder",
+  "input": {
+    "item": "refinedforage:slate_lead"
+  },
+  "result": {
+    "item": "refinedforage:lead_grit",
+    "count": 2
+  }
+}

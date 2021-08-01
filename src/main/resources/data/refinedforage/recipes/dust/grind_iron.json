@@ -1,0 +1,10 @@
+{
+  "type": "refinedforage:grinder",
+  "input": {
+    "item": "minecraft:iron_ore"
+  },
+  "result": {
+    "item": "refinedforage:iron_grit",
+    "count": 2
+  }
+}

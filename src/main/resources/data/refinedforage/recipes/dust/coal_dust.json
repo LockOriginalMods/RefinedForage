@@ -1,0 +1,12 @@
+
+{
+  "type": "refinedforage:grinder",
+  "input": {
+    "item": "minecraft:coal"
+
+  },
+  "result": {
+    "item": "refinedforage:coal_grit",
+    "count": 2
+  }
+}
