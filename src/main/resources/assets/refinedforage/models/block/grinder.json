@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "refinedforage:block/grinder_front",
+    "north": "refinedforage:block/grinder_front",
+    "south": "refinedforage:block/grinder_side_one",
+    "east": "refinedforage:block/grinder_side_two",
+    "west": "refinedforage:block/grinder_side_there",
+    "up": "refinedforage:block/grinder_top",
+    "down": "refinedforage:block/grinder_bottom"
+  }
+}

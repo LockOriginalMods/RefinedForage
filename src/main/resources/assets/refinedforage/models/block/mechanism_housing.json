@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "refinedforage:blocks/stone",
+    "up": "refinedforage:blocks/stone",
+    "north": "refinedforage:blocks/stone",
+    "east": "refinedforage:blocks/stone",
+    "south": "refinedforage:blocks/stone",
+    "west": "refinedforage:blocks/stone",
+    "particle": "refinedforage:blocks/stone"
+  }
+}
