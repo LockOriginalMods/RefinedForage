@@ -1,0 +1,8 @@
+{
+    "variants": {
+			"facing=north":	{ "model": "refinedforage:block/handle"},
+			"facing=east":	{ "model": "refinedforage:block/handle", "y": 90 },
+			"facing=south":	{ "model": "refinedforage:block/handle" , "y": 180 },
+			"facing=west":	{ "model": "refinedforage:block/handle", "y": 270 }
+    }
+}
