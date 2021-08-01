@@ -5,7 +5,7 @@
 	"item.refinedforage.trident_top": "Trident top",
 	"item.refinedforage.golden_cherry": "Golden cherry",
 	"item.refinedforage.cherry": "Cherry",
-	"block.refinedforage.solar_basic": "Basic solar panel ",
+	"block.refinedforage.solar_basic": "Basic solar panel",
 	"block.refinedforage.solaradvanced": "Advanced solar panel",
 	"block.refinedforage.solarindustrial": "Industrial solar panel",
 	"block.refinedforage.solarquantum": "Quantum solar panel",
@@ -83,7 +83,7 @@
 	"item.refinedforage.copperwire_coil": "Copper wire spool",
 	"item.refinedforage.cutters": "Wire cutters",
 	"item.refinedforage.fine_sands": "Fine sands",
-	"item.refinedforage.water_filter": "Water filter",
+	"item.refinedforage.water_filter": "Sand In a Jar",
 	"item.refinedforage.spool": "Spool",
 	"item.refinedforage.bronze_gear": "Bronze gear",
 	"item.refinedforage.copper_gear": "Copper gear",
@@ -94,6 +94,7 @@
 	"item.refinedforage.gold_gear": "Gold gear",
 	"item.refinedforage.lead_gear": "Lead gear",
 	"item.refinedforage.lead_dust": "Lead dust",
+	"item.refinedforage.gold_grit": "Gold dust",
 	"item.refinedforage.bronze_nugget": "Bronze nugget",
 	"item.refinedforage.copper_nugget": "Copper nugget",
 	"item.refinedforage.lead_nugget": "Lead nugget",
@@ -101,7 +102,15 @@
 	"item.refinedforage.silver_nugget": "Silver nugget",
 	"item.refinedforage.steel_nugget": "Steel nugget",
 	"entity.minecraft.villager.refinedforage.engineer": "Engineer",
-
 	"block.refinedforage.coal_generator": "Coal generator",
-	"screen.refinedforage.coal_generator": "Coal generator Screen"
+	"screen.refinedforage.coal_generator": "Coal generator Screen",
+	"block.refinedforage.mechanism_housing": "Mechanism housing",
+
+
+	"block.refinedforage.grinder":"Grinder Base",
+	"block.refinedforage.grinder.tooltip":"Place below a Handle and fill with ore",
+	"block.refinedforage.handle":"Grinder Handle",
+	"block.refinedforage.handle.tooltip":"Turn this while on top of a Grinder",
+
+	"itemGroup.refinedforage":"Mechanisms"
 }
