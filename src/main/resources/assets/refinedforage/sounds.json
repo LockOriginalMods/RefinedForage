@@ -1,0 +1,12 @@
+{
+  "block.compressor.compression_end": {
+    "category": "block",
+    "subtitle": "subtitles.block.compressor.compression_end",
+    "sounds": [
+      {
+        "name": "electrona:block.compressor.compression_end",
+        "stream": false
+      }
+    ]
+  }
+}
